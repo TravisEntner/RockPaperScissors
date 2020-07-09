@@ -17,7 +17,7 @@ elif(userChoice == "scissors" and choices == "scissors"):
   print("TIE")
 elif(userChoice == "rock" and choices == "rock"):
   print("TIE")
-elif(userChoice == "papaer" and choices=="paper"):
+elif(userChoice == "paper" and choices=="paper"):
   print("TIE")
 else:
    print("Please put rock, paper, or scissors. Also don't use capital letters") 
